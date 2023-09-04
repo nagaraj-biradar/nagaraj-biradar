@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Developement,Javascript, ReactJS, Blockchain, Solidity**
 
-- 📫 How to reach me **nagarajtolearn@gmail.com**
+- 📫 How to reach me **nagarajbiradar1900@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
