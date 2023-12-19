@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)]
+
 <h1 align="center">Hi 👋, I'm Nagaraj Biradar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
