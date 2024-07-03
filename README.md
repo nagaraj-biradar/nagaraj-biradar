@@ -29,6 +29,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarajtolearn&show_icons=true&locale=en&layout=compact" alt="nagarajtolearn" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagaraj-biradar)](https://github.com/nagaraj-biradar/github-readme-stats)
 <div align="left">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nagarajtolearn&show_icons=true&locale=en" alt="nagarajtolearn" /></p>
 </div>
